@@ -29,11 +29,13 @@ I am a Junior developer (Apple Platform) <img src="https://media.giphy.com/media
 
 - :telescope: I’m currently a 6th semester student at Bina Nusantara University
 
+- :apple: Currently enrolling at Apple Developer Academy BINUS
+
 - :seedling: Exploring Xcode, always willing to learn something new
 
-- :zap: In my free time, I like to learn and study Apple's swift programming language
+- :watch: In my free time, I like to learn and study Apple's swift programming language
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandonnicolasmarlim/)
+- :handshake: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandonnicolasmarlim/)
 
 ---
 
