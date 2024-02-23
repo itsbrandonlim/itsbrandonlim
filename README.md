@@ -29,9 +29,9 @@ I am a Junior developer (Apple Platform) <img src="https://media.giphy.com/media
 
 - :telescope: I’m currently a 7th semester student at Bina Nusantara University
 
-- :apple: Currently enrolling at Apple Developer Academy BINUS
+- :apple: Apple Developer Academy @BINUS 2023 Graduate
 
-- :seedling: Exploring Xcode, always willing to learn something new
+- :seedling: Exploring Apple platform development, always willing to learn something new
 
 - :watch: In my free time, I like to learn and study Apple's swift programming language
 
