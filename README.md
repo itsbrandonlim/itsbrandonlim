@@ -27,7 +27,7 @@
 ### :man_technologist: About Me :
 I am a Junior developer (Apple Platform) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- :telescope: I’m currently a 7th semester student at Bina Nusantara University
+- :telescope: Fresh Graduate Computer Science Student from Bina Nusantara University
 
 - :apple: Apple Developer Academy @BINUS 2023 Graduate
 
