@@ -25,7 +25,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Junior developer (Apple Platform) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+I am a Junior developer from Indonesia. Currently I'm undergoing an internship at Superbank Indonesia as an IT Procurement.
 
 - :telescope: Fresh Graduate Computer Science Student from Bina Nusantara University
 
