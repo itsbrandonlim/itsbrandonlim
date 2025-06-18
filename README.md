@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=itsbrandonlim&style=flat-square&color=green" alt=""/>
   
   <h1>
-  Hello World
+  Welcome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
@@ -25,15 +25,15 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Junior developer from Indonesia. Currently I'm undergoing an internship at Superbank Indonesia as an IT Procurement.
+I am a Quality Assurance Engineer at Superbank Indonesia. Currently I want to pursue a career as a QA Enginner, to be more specific and hopefully a game tester.
 
-- :telescope: Fresh Graduate Computer Science Student from Bina Nusantara University
+- :computer: Computer Science Graduate from Bina Nusantara University
 
 - :apple: Apple Developer Academy @BINUS 2023 Graduate
 
-- :seedling: Exploring Apple platform development, always willing to learn something new
+- :seedling: Always willing to learn
 
-- :watch: In my free time, I like to learn and study Apple's swift programming language
+- :watch: I like to do some exploration regarding QA career path, QA Automation, and game testing during free time
 
 - :handshake: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandonnicolasmarlim/)
 
@@ -51,10 +51,6 @@ I am a Junior developer from Indonesia. Currently I'm undergoing an internship a
 </div>
 
 ---
-
-### :robot: Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsbrandonlim&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
