@@ -25,7 +25,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Quality Assurance Engineer at Superbank Indonesia. Currently I want to pursue a career as a QA Enginner, to be more specific and hopefully a game tester.
+I am a Quality Assurance Engineer at Superbank Indonesia.
 
 - :computer: Computer Science Graduate from Bina Nusantara University
 
@@ -33,7 +33,7 @@ I am a Quality Assurance Engineer at Superbank Indonesia. Currently I want to pu
 
 - :seedling: Always willing to learn
 
-- :watch: I like to do some exploration regarding QA career path, QA Automation, and game testing during free time
+- :watch: I like to do some exploration regarding QA career path
 
 - :handshake: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandonnicolasmarlim/)
 
