@@ -1,65 +1,35 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-</div>
-
-<div id="badges" align="center">
+<div align="center">
+  <h1>Hi, I'm Brandon</h1>
+  <p><strong>Quality Assurance Engineer at Superbank Indonesia</strong></p>
+  <p>Mobile automation · API testing · Test automation</p>
   <a href="https://www.linkedin.com/in/brandonnicolasmarlim/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square" alt="Connect with Brandon on LinkedIn" />
   </a>
 </div>
 
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsbrandonlim&style=flat-square&color=green" alt=""/>
-  
-  <h1>
-  Welcome
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  
-</div>
+## About me
 
-<div align ="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="250"/>
-</div>
+I'm a QA engineer focused on mobile automation and API testing. My toolkit includes **Java**, **TestNG**, and **Appium**, with an emphasis on clear, maintainable automated tests.
 
----
+I enjoy exploring testing approaches and continuing to grow in quality engineering.
 
-### :man_technologist: About Me :
-I am a Quality Assurance Engineer at Superbank Indonesia.
+## QA toolkit
 
-- :computer: Computer Science Graduate from Bina Nusantara University
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/TestNG-2563EB?style=flat-square" alt="TestNG" />
+  <img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&amp;logo=appium&amp;logoColor=white" alt="Appium" />
+  <img src="https://img.shields.io/badge/API_Testing-0F766E?style=flat-square" alt="API testing" />
+  <img src="https://img.shields.io/badge/Mobile_Automation-334155?style=flat-square" alt="Mobile automation" />
+</p>
 
-- :apple: Apple Developer Academy @BINUS 2023 Graduate
+| Focus | Tools & approach |
+| --- | --- |
+| Test automation | Java and TestNG for writing and organizing automated tests |
+| Mobile automation | Appium for automating mobile app interactions and test scenarios |
+| API testing | Checking API behavior, responses, and error handling |
 
-- :seedling: Always willing to learn
+## Education
 
-- :watch: I like to do some exploration regarding QA career path
-
-- :handshake: Let's connect: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandonnicolasmarlim/)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" title="Sketch" alt="Sketch" width="40" height="40"/>&nbsp;  
-</div>
-
----
-
-
-
-
-
-
-
-
-
-
-
-
+- **Bina Nusantara University** — Computer Science graduate
+- **Apple Developer Academy @ BINUS** — Cohort of 2023
