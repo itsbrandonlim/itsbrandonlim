@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Brandon</h1>
+  <h1>Brandon Nicolas Marlim</h1>
   <p><strong>Quality Assurance Engineer at Superbank Indonesia</strong></p>
   <p>Mobile automation · API testing · Test automation</p>
   <a href="https://www.linkedin.com/in/brandonnicolasmarlim/">
