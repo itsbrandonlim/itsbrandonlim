@@ -9,8 +9,8 @@
 
 ## About me
 
-I'm a QA engineer focused on mobile automation and API testing. My toolkit includes **Java**, **TestNG**, and **Appium**, with an emphasis on clear, maintainable automated tests.
-
+A Quality Assurance Engineer with experience in end to end testing, test automation, and quality process improvement.
+My work covers the full QA lifecycle, from requirement analysis and test case design to SIT execution, defect management, regression testing, and production release support.
 I enjoy exploring testing approaches and continuing to grow in quality engineering.
 
 ## QA toolkit
